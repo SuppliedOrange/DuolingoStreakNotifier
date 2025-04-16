@@ -2,6 +2,12 @@
 
 ##### From March 2, 2024, 3:25am
 
+This repository contains a _Kustom Widget File_ in it's releases. You can open this file with the [Kustom Widget](https://play.google.com/store/apps/details?id=org.kustom.widget&)
+app for Android. Note that you will likely need to donate to the app to unlock the ability to import this file. Additionally, you can simply ask me for the code and I'll gladly
+show you the parts of it or help you understand parts of it.
+
+The documentation for Kustom is here: https://docs.kustom.rocks/docs/reference/functions/
+
 # Duolingo Streak Notifier
 
 This widget displays:
